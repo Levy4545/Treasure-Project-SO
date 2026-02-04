@@ -1,0 +1,24 @@
+# Executables
+treasure_manager
+treasure_hub
+calculate_score_exec
+
+# Temporary files
+command.txt
+
+# Treasure hunt data directories and files
+*/treasures.dat
+*/logged_hunt
+logged_hunt-*
+*.dat
+
+# Build artifacts
+*.o
+*.a
+*.so
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*~
