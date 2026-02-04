@@ -18,7 +18,7 @@ A C-based treasure hunt management system that demonstrates advanced operating s
 
 ## 🎯 Overview
 
-This project is a System and Operating Systems (SO) coursework that implements a treasure hunt tracking system. It manages multiple treasure hunts, each containing treasures with geographic coordinates, clues, and point values. The system demonstrates practical implementation of various OS concepts including:
+This project is a Systems and Operating Systems (SO) coursework that implements a treasure hunt tracking system. It manages multiple treasure hunts, each containing treasures with geographic coordinates, clues, and point values. The system demonstrates practical implementation of various OS concepts including:
 
 - Process creation and management (fork, exec)
 - Inter-process communication using pipes
@@ -245,7 +245,7 @@ The project uses a Makefile with the following targets:
 
 ## 🤝 Contributing
 
-This is a System and Operating Systems (SO) coursework project. Updates are made regularly, typically every Sunday.
+This is a Systems and Operating Systems (SO) coursework project. Updates are made regularly, typically every Sunday.
 
 For questions or suggestions, please open an issue in the repository.
 
@@ -267,5 +267,5 @@ For questions or suggestions, please open an issue in the repository.
 
 ---
 
-**Course**: System and Operating Systems  
+**Course**: Systems and Operating Systems  
 **Last Updated**: Check commit history for latest updates
